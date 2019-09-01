@@ -1,3 +1,6 @@
 First Line
 
 Should go to new branch
+
+
+This comment is right
