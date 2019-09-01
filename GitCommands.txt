@@ -1,5 +1,8 @@
+git commit --amend
+git commit --amend -m "New comment"
 git reset
 git cherry-pick
 git checkout <file>
 git clean -df
 git revert
+git reflog
