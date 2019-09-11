@@ -2,5 +2,3 @@ First Line
 Second Line
 
 Some change
-
-Sixth Line
